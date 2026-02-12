@@ -1,0 +1,1 @@
+percent = 0.30 //the higher the decimal, the closer the camera stays to the ship
